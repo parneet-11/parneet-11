@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **parneet-11/parneet-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
