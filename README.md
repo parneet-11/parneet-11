@@ -1,82 +1,24 @@
 # Hi, I'm Parneet Kaur 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/parneet-kaur-11102a1ba/)](https://linkedin.com/in/parneet-kaur-11102a1ba/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/parneet-11)](https://github.com/parneet-11)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pnola130@asu.edu)](mailto:pnola130@asu.edu)
+I'm a Data Engineer and ML enthusiast pursuing an MS in Computer Science at ASU (Expected 2027). I specialize in building scalable data pipelines, machine learning models, and actionable dashboards using Python, Spark, AWS, and Tableau.
 
----
+🌟 **Currently working on**: Optimizing ETL workflows and ML models for real-time analytics.
 
-## 🎓 Education
-- **Master of Science in Computer Science**  
-  Arizona State University, Tempe, AZ — *Expected May 2027*
-
-- **Bachelor of Engineering in Information Science and Engineering**  
-  Acharya Institute of Technology, Bangalore, India — *Aug 2022*
-
----
-
-## 🛠️ Technical Skills
-- **Languages & Tools:** Python, Java, MySQL, Kafka, Spark, Postman, Angular  
-- **Data Engineering & Visualization:** Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn, ETL, Dashboarding, Reporting, KPIs, Statistical Analysis, Machine Learning  
-- **Automation & Platforms:** UiPath, Resolve Action Express, Power Apps, SharePoint Online, Azure, AWS (S3, Redshift, Glue, Lambda)
-
----
+## 🛠️ Skills
+- **Languages & Tools**: Python, Java, SQL, Apache Spark, Kafka, Pandas, Scikit-learn
+- **Cloud & Platforms**: AWS (S3, Redshift, Glue, Lambda), Azure, Power BI, Tableau
+- **ML & Analytics**: Statistical Analysis, A/B Testing, Predictive Modeling, Data Visualization
 
 ## 💼 Experience
+**Programmer Analyst @ Cognizant** (2022–2025)
+- Built scalable data pipelines with Kafka and Spark, processing 1M+ records daily.
+- Automated workflows with Python and UiPath, reducing manual effort by 17%.
 
-### Programmer Analyst — Cognizant  
-*Bangalore, India | Aug 2022 – Present*  
-- Designed scalable data pipelines and APIs using Java, Oracle SQL, and Apache Kafka for real-time processing.  
-- Automated data extraction with Python and built Excel + Power BI integrated reports, reducing manual effort by 17%.  
-- Cleaned, mapped, and compressed data from 12+ systems to ensure accuracy.  
-- Developed UiPath automation to reduce support workload by 75%.  
-- Created documentation and gathered requirements through interviews and surveys.
+## 📈 Featured Projects
+- **[YouTube Data Analysis](https://github.com/parneet-11/YouTube-Data-Analysis)**: Developed ETL pipelines with AWS Redshift and QuickSight dashboards for video performance insights.
+- **[SMS Spam Detector](https://github.com/parneet-11/pyspark-sms-spam-detector)**: Built a PySpark ML model to classify SMS spam with 92% accuracy.
 
-### Programmer Intern — Cognizant  
-*Bangalore, India | Mar 2022 – Jul 2022*  
-- Developed a full-stack Book Management System with ASP.NET and Angular.  
-- Designed user-friendly UI and robust backend services.
+## 📬 Connect
+Reach out via [LinkedIn](https://linkedin.com/in/parneetkaur) or [email](mailto:your.email@example.com) to discuss data-driven solutions!
 
----
-
-## 📊 Projects
-
-### Bank Loan Analysis Dashboard *(Mar 2024)*  
-*Tableau, Data Visualization, KPI Analysis*  
-- Created 3 dashboards analyzing loan KPIs, trends, and metrics for data-driven decisions.
-
-### Customer Usage Pattern Analysis in Telecom *(Jan 2025)*  
-*Python, SciPy, Statsmodels*  
-- Performed statistical tests (Z-test, T-test, Chi-square, ANOVA) and visualizations to analyze user behavior.
-
-### YouTube Data Analysis and Optimization *(Aug 2024)*  
-*Python, SQL, AWS Redshift, QuickSight*  
-- Built ETL workflows to ingest YouTube data and created interactive dashboards for video performance insights.
-
----
-
-## 🤝 Community Involvement
-
-- **ICare Member:** Emotional support at orphanages and old age homes.  
-- **Volunteer Teacher:** Taught Math & Science in underserved schools.  
-- **Eco Volunteer:** Participated in tree plantation and clean-up drives.
-
----
-
-Feel free to reach out via [email](mailto:pnola130@asu.edu) or connect on [LinkedIn](https://linkedin.com/in/parneet-kaur-11102a1ba/).
-
-
-<!--
-**parneet-11/parneet-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark)
