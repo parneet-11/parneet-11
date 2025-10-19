@@ -1,8 +1,12 @@
 # Hi, I'm Parneet Kaur 👋
 
-I'm a Data Engineer and ML enthusiast pursuing an MS in Computer Science at ASU (Expected 2027). I specialize in building scalable data pipelines, machine learning models, and actionable dashboards using Python, Spark, AWS, and Tableau.
+I'm a Data Engineer and ML enthusiast pursuing an MS in Computer Science at ASU (Expected 2027). I specialize in building scalable data pipelines, machine learning models, and actionable dashboards using Python, Spark, AWS, and Power BI.
+I love optimizing SQL queries, automating data workflows, and designing efficient data models that power analytics and business intelligence solutions.
 
-🌟 **Currently working on**: Optimizing ETL workflows and ML models for real-time analytics.
+
+🌟 **Currently working on**: Optimizing ML models and ETL workflows - developing scalable pipelines to process structured and unstructured data across Azure and AWS platforms for real-time analytics.
+Deepening my skills in data modeling, cloud data warehousing (Snowflake, Redshift), and exploring streaming architectures like Kafka and Spark.
+
 
 ## 🛠️ Skills
 - **Languages & Tools**: Python, Java, SQL, Apache Spark, Kafka, Pandas, Scikit-learn
