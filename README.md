@@ -20,7 +20,7 @@ Deepening my skills in data modeling, cloud data warehousing (Snowflake, Redshif
 
 ## 📈 Featured Projects
 - **[YouTube Data Analysis](https://github.com/parneet-11/YouTube-Data-Analysis)**: Developed ETL pipelines with AWS Redshift and QuickSight dashboards for video performance insights.
-- **[SMS Spam Detector](https://github.com/parneet-11/pyspark-sms-spam-detector)**: Built a PySpark ML model to classify SMS spam with 92% accuracy.
+- **[Cloud Lakehouse Analytics](https://github.com/parneet-11/Spotify-Data-Engineering-Project)**: Developed Medallion Lakehouse on Azure Databricks. Modeled analytics data using a SCD Type 2 star schema in Azure SQL DB, with CI/CD via Databricks Asset Bundles and Unity Catalog for governance and security.
 
 ## 📬 Connect
 Reach out via [LinkedIn](https://www.linkedin.com/in/parneet-kaur-11102a1ba/) or [email](mailto:parneetkaur1153@gmail.com) to discuss data-driven solutions!
